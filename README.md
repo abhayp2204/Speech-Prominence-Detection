@@ -1,15 +1,28 @@
 # Speech-Prominence-Detection
 Correct prominence on the words and the part of the word is important for the right pronunciation. Some people may find it difficult to learn correct prominence placement on the pronunciation of English words. This project revolves around building a model that can predict the prominence of the syllables in speech data. Consequently, this model could serve as a teaching tool for individuals who are learning English.
 
-Team
-* Abhay Patil
-* Pranjal Thapliyal
+
+### Developer Team
+* `Abhay Patil`
+* `Pranjal Thapliyal`
+
+### Client
+* `Chiranjeevi Yarra`
+
+### Mentor
+* `Mallela Jhansi`
 
 Duration: January 2023 to December 2023
 
 <br />
 
 # PERT Chart
+
+Brief outline of the project:
+* The two side branches i.e. `Twitter Sentiment Analysis` and `Transformers` represent side projects done to familiarize ourselves with the topic and learn general speech processing methods.
+* The main central branch represents the sequential methods taken to arrive at the final `speech prominence detection model`.
+<br />
+<br />
 <img src='./images/pert.png' alt='pert chart' width='700px'>
 <br />
 <br />
